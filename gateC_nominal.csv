@@ -1,0 +1,2 @@
+ts,tag,pr,adc,rate_stuck_0,rate_stuck_1,calib_seed,n_images,acc,seconds
+2026-08-30T06:50:38.958735+00:00,nominal,64,5,0.0,0.0,1234,10000,72.05,779.4

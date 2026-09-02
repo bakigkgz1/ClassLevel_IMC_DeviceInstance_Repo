@@ -1,0 +1,2 @@
+ts,pr,adc,hardware,read_noise,d2d_cv,calib_seed,map_seed,n_cim,n_d2d,batch,logits_equal,logits_allclose_atol0,max_abs_diff,seconds
+2026-08-28T16:10:19.998859+00:00,64,5,1,0.0,0.1,1234,11,21,21,64,1,1,0.0,31.8

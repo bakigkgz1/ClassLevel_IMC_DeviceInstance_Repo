@@ -1,0 +1,2 @@
+nominal_acc,n_maps,acc_mean,acc_min,acc_max,drop_mean_pp,kendall_tau_mean,jaccard_worst10_mean,n_collapse_flag,complete
+72.05,10,66.394,42.01,71.55,5.656,0.0866,0.1335,1,1

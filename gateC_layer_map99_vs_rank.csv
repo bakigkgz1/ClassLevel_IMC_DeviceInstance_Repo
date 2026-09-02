@@ -1,0 +1,9 @@
+layer,map99_l1,rank_mean_l1,delta_l1
+conv3_x.0.shortcut.0,0.3108,0.2696,0.0412
+conv2_x.0.residual_function.3,0.2958,0.2563,0.0394
+conv5_x.0.shortcut.0,0.2847,0.2584,0.0264
+conv2_x.0.residual_function.0,0.2694,0.2504,0.0189
+conv4_x.0.residual_function.0,0.2727,0.2559,0.0168
+conv2_x.1.residual_function.0,0.2636,0.2485,0.0151
+conv5_x.1.residual_function.0,0.2653,0.2609,0.0044
+conv5_x.0.residual_function.3,0.2629,0.2591,0.0038

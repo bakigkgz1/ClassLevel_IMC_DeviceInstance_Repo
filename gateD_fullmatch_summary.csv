@@ -1,0 +1,4 @@
+control,cv,nominal_acc,target_drop_pp,n_maps,acc_mean,acc_min,acc_max,drop_mean_pp,drop_min_pp,drop_max_pp,kendall_tau_mean,jaccard_worst10_mean,n_collapse_flag,complete,lm_in_w10,cr_in_w10,lock_note
+digital_gauss_fullmatch,0.3,72.05,2.95,10,66.683,64.64,68.53,5.367,3.52,7.41,0.1549,0.1204,0,1,0,1,N10000 probe seed11 drop 6.16; overshoot vs 2.95 is conservative for core-absence
+stuck_at_ranking9,0.001,72.05,2.95,9,69.10,65.02,71.55,2.95,0.50,7.03,0.0905,0.1268,0,1,7,7,excl map99
+stuck_at_all10,0.001,72.05,2.95,10,66.394,42.01,71.55,5.656,0.50,30.04,0.0866,0.1335,1,1,7,7,map99 collapse

@@ -1,0 +1,2 @@
+ts,tag,n_images,acc,drop_pp,collapse_flag,seconds,worst10,worst10_names,n_analog_core,n_digital_core,analog_core_hit,digital_core_hit,sparsity
+2026-08-30T17:38:00+00:00,magnitude_prune,10000,67.48,4.57,0,766.9,81 58 61 38 83 60 94 93 5 14,streetcar pickup_truck plate kangaroo sweet_pepper plain wardrobe turtle bed butterfly,0,1,,kangaroo,0.7

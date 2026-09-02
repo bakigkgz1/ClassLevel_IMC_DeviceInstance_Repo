@@ -1,0 +1,2 @@
+control,cv,nominal_acc,target_drop_pp,n_maps,acc_mean,acc_min,acc_max,drop_mean_pp,kendall_tau_mean,jaccard_worst10_mean,n_collapse_flag,complete,analog_jaccard,analog_tau
+digital_gauss,0.15,72.05,2.95,10,70.952,69.09,71.61,1.098,0.2034,0.1127,0,1,0.1335,0.0866

@@ -1,0 +1,11 @@
+ts,map_seed,rate,n_images,acc,drop_pp,collapse_flag,seconds,n_analog_core,analog_core_hit,worst10_names
+2026-08-30T21:15:36.574762+00:00,11,0.001,10000,70.13,1.92,0,771.2,0,,forest cup sweet_pepper rabbit elephant lion beaver bear orchid palm_tree
+2026-08-30T21:28:23.337734+00:00,22,0.001,10000,70.53,1.52,0,766.7,0,,willow_tree sea rabbit bus baby bear chimpanzee kangaroo shark skunk
+2026-08-30T21:41:10.961391+00:00,33,0.001,10000,70.65,1.40,0,767.6,0,,mouse kangaroo orchid sweet_pepper rabbit girl lizard beaver forest rose
+2026-08-30T21:53:58.628697+00:00,44,0.001,10000,70.59,1.46,0,767.6,1,crocodile,leopard tank elephant lion camel tiger forest train chimpanzee crocodile
+2026-08-31T01:43:58.429807+00:00,55,0.001,10000,70.44,1.61,0,780.6,1,crocodile,lion elephant orchid crocodile hamster rocket bowl pear cloud wardrobe
+2026-08-31T01:56:54.398270+00:00,66,0.001,10000,70.86,1.19,0,775.9,1,crocodile,crocodile sweet_pepper kangaroo lion forest apple bicycle cloud elephant boy
+2026-08-31T02:09:50.704950+00:00,77,0.001,10000,69.16,2.89,0,776.3,1,crocodile,lion rabbit crocodile mountain man shrew snail wolf cloud dolphin
+2026-08-31T02:22:47.553139+00:00,88,0.001,10000,70.76,1.29,0,776.8,1,crocodile,lion crocodile chimpanzee elephant rabbit hamster tank willow_tree shrew bee
+2026-08-31T02:35:43.526430+00:00,99,0.001,10000,69.58,2.47,0,775.9,1,crocodile,crocodile orchid kangaroo lion elephant ray baby chimpanzee rabbit dolphin
+2026-08-31T02:48:38.737298+00:00,110,0.001,10000,70.41,1.64,0,775.2,0,,bowl cup tiger chimpanzee lion forest man mountain worm bicycle

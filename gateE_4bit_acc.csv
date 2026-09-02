@@ -1,0 +1,2 @@
+ts,tag,n_images,acc,drop_pp,collapse_flag,seconds,worst10,worst10_names,n_analog_core,n_digital_core,analog_core_hit,digital_core_hit,weight_precision
+2026-08-30T17:11:50+00:00,4bit,10000,67.47,4.58,0,410.8,96 98 16 14 11 44 7 45 73 80,willow_tree woman can butterfly boy lizard beetle lobster shark squirrel,0,1,,beetle,4

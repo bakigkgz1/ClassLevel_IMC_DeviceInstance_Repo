@@ -1,0 +1,2 @@
+n_maps_ranking,tau_mean,tau_jk_se,tau_ci95_lo,tau_ci95_hi,tau_perm_p,j_mean,j_jk_se,j_ci95_lo,j_ci95_hi,j_perm_p,lm_count,cr_count,p_lm_uniform,p_lm_difficulty,p_cr_difficulty,w10_excess_median,w10_frac_ge_floor,lm_count_floor,cr_count_floor,j_floor
+9,0.0905,0.0228,0.0435,0.1406,0.0,0.1268,0.0211,0.0905,0.1685,0.0,7,6,0.0,0.939,0.625,0.1,0.6222,6,4,0.0825

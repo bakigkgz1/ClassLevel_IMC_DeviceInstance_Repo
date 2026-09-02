@@ -1,0 +1,4 @@
+checkpoint,n_maps,loocv_mae_model_pp,loocv_mae_null_pp,perm_p_loocv,beta0,beta1_X1,beta2_X2,beta3_X3,drop_csv,n_maps_rank,loocv_mae_model_rank_pp,loocv_mae_null_rank_pp
+seed1234,10,7.701,5.724,0.1826,-0.000001,0.00000012,-0.00000008,0.00000015,gateC_maps_acc.csv,9,5.596,1.889
+seed5678,10,2.290,1.565,0.3087,0.000001,-0.00000005,0.00000003,-0.00000002,gateC_seed2_maps_acc.csv,,,
+seed5678_acc72,5,10.499,2.090,0.9844,0.000002,0.00000010,-0.00000006,0.00000004,gateC_seed2acc72_maps_acc.csv,,,
